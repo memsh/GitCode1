@@ -18,7 +18,7 @@ public class ArraysExr2 : MonoBehaviour
             Debug.Log(wrd);
             counter++;
         }
-           
+            Debug.Log("U R Soo Funnnny(❁´◡`❁)");
     }
 
     // Update is called once per frame
